@@ -1,9 +1,13 @@
-import React from 'react'
+import { Deals, Footer, Gallery, Header, Landing } from '../components'
 
 export const HomePage = () => {
 	return (
 		<>
-			<h1>HomePage - WaweClothesApp</h1>
+			<Header />
+			<Landing />
+			<Deals />
+			<Gallery />
+			<Footer />
 		</>
 	)
 }
