@@ -1,0 +1,15 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+}
+:root {
+	--wc-white: #f2f2f2;
+	--ws-black: #0a0c0d;
+	--wc-main-color: #1c5052;
+	--wc-main-color-lighter: #348e91;
+	--wc-main-color-darker: #213635;
+}
+
+body {
+	font-family: 'Poppins';
+}
